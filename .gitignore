@@ -1,2 +1,4 @@
 data/*
 __pycache__
+user-contrib.log
+db_local.yaml
